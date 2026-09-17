@@ -25,7 +25,6 @@ parte de base de datos— se pueda leer y entender en un único fichero
 4. [Cómo lanzar la app](#cómo-lanzar-la-app)
 5. [Endpoints y ejemplos](#endpoints)
 6. [La base de datos SQLite](#la-base-de-datos-sqlite)
-7. [Los tests: qué hacen y cómo funcionan](#los-tests-qué-hacen-y-cómo-funcionan)
 8. [Sugerencia de uso en clase](#sugerencia-de-uso-en-clase)
 9. [Ideas para ampliar](#ideas-para-ampliar-opcional)
 
